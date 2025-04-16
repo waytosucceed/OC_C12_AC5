@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Jack’s first challenge was to look at the given schedule and tell Which event ends at 1:35 P.M.?<br><img width='55%' src='./question/1.png'>",
+    "options": [
+      "Ski jumping",
+      "Downhill skiing event",
+      "Cross-country skiing event",
+      "Figure skating event"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Next, Jack needed to identify Which event started at 10:40 A.M.?<br><img width='50%' src='./question/10.png'>",
+    "options": [
+      "Long jump",
+      "Shot put",
+      "Javelin throw",
+      "Discus throw"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Jack was asked to look at the following schedule and tell which class begins at 10:30 A.M.?<br><img width='55%' src='./question/2.png'>",
+    "options": [
+      "Advance programming class",
+      "Computer graphics",
+      "Spreadsheets",
+      "Word processing"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "The book then asked Jack when the play Two People Happy Together began.<br><img width='55%' src='./question/3.png'>",
+    "options": [
+      "1:05 P.M.",
+      "2:55 P.M.",
+      "8:35 A.M.",
+      "9:50 A.M."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Jack’s next task was to figure out when the bus departed for the zoo?<br><img width='55%' src='./question/4.png'>",
+    "options": [
+      "11:25 A.M.",
+      "12:15 P.M.",
+      "9:15 A.M.",
+      "12:40 P.M."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Finally, Jack needed to find out Which activity begins at 11:30 A.M.?<br><img width='55%' src='./question/5.png'>",
+    "options": [
+      "Aerobics",
+      "Volleyball",
+      "Line dancing",
+      "Indoor soccer"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Jack had to figure out which event began at 5:40 P.M.?<br><img width='55%' src='./question/6.png'>",
+    "options": [
+      "Band concert",
+      "Swim team practice",
+      "Wrestling practice",
+      "French club meeting"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Jack’s next puzzle asked which movie ended at 2:10 P.M.?<br><img width='55%' src='./question/7.png'>",
+    "options": [
+      "Spaceships and rockets",
+      "The crystal ball of fortune",
+      "Aliens form outer space",
+      "Time travel"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Jack was then asked when the train arrived at Dayton?<br><img width='55%' src='./question/8.png'> ",
+    "options": [
+      "3:25 P.M.",
+      "3:40 P.M.",
+      "6:40 P.M.",
+      "12:45 P.M."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Jack's next challenge was to find out when the boat departed from Whale Watch Harbour.?<br><img width='55%' src='./question/9.png'>",
+    "options": [
+      "11:10 A.M.",
+      "1:10 P.M.",
+      "11:50 A.M.",
+      "11:25 A.M."
+    ],
+    "correct": 3
+  }
+]
